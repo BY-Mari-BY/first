@@ -1,0 +1,3 @@
+Info: 100(l) 50(pr) 20(lab).
+PH: 30(l) - 10(lab)
+Pclt: - 30(pr) -
